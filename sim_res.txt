@@ -1,0 +1,33 @@
+cat	prop	var	data_type	seq_len
+0 - 1	0.415	DEL	simulated	2mb
+1 - 10	0.29568	DEL	simulated	2mb
+10 - 100	0.27279	DEL	simulated	2mb
+>100	0.01653	DEL	simulated	2mb
+0 - 1	0.34691	INS	simulated	2mb
+1 - 10	0.49757	INS	simulated	2mb
+10 - 100	0.15552	INS	simulated	2mb
+>100	0.0	INS	simulated	2mb
+0 - 1	0.34877	DEL	predicted	2mb
+1 - 10	0.26624	DEL	predicted	2mb
+10 - 100	0.32239	DEL	predicted	2mb
+>100	0.0626	DEL	predicted	2mb
+0 - 1	0.0875	INS	predicted	2mb
+1 - 10	0.19284	INS	predicted	2mb
+10 - 100	0.47482	INS	predicted	2mb
+>100	0.24484	INS	predicted	2mb
+0 - 1	0.41089	DEL	simulated	20mb
+1 - 10	0.29826	DEL	simulated	20mb
+10 - 100	0.2739	DEL	simulated	20mb
+>100	0.01695	DEL	simulated	20mb
+0 - 1	0.34599	INS	simulated	20mb
+1 - 10	0.4975	INS	simulated	20mb
+10 - 100	0.15649	INS	simulated	20mb
+>100	2e-05	INS	simulated	20mb
+0 - 1	0.40805	DEL	predicted	20mb
+1 - 10	0.2945	DEL	predicted	20mb
+10 - 100	0.27948	DEL	predicted	20mb
+>100	0.01797	DEL	predicted	20mb
+0 - 1	0.33269	INS	predicted	20mb
+1 - 10	0.49805	INS	predicted	20mb
+10 - 100	0.16926	INS	predicted	20mb
+>100	0.0	INS	predicted	20mb
